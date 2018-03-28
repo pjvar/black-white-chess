@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/black.png</file>
+        <file>image/blackwin.jpg</file>
+        <file>image/chessboard.jpg</file>
+        <file>image/choosewin.gif</file>
+        <file>image/exitchoose.png</file>
+        <file>image/pause.jpg</file>
+        <file>image/pvm.png</file>
+        <file>image/pvp.png</file>
+        <file>image/same.jpg</file>
+        <file>image/welcome.jpg</file>
+        <file>image/white.png</file>
+        <file>image/whitewin.jpg</file>
+        <file>image/exitplay.png</file>
+        <file>image/goback.png</file>
+        <file>image/redo.png</file>
+        <file>image/regret.png</file>
+        <file>image/stop.png</file>
+        <file>image/no.png</file>
+        <file>image/yes.png</file>
+        <file>image/gobackwin.png</file>
+        <file>image/goon.png</file>
+    </qresource>
+</RCC>
